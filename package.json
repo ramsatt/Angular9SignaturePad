@@ -19,7 +19,9 @@
     "@angular/platform-browser": "~9.0.1",
     "@angular/platform-browser-dynamic": "~9.0.1",
     "@angular/router": "~9.0.1",
+    "bootstrap": "^4.4.1",
     "rxjs": "~6.5.4",
+    "signature_pad": "^3.0.0-beta.3",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
   },
